@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 export const Header = () => {
   return (
-    <>
+    <header>
     <Navbar>
         <Container>
             <Navbar.Brand href="/">
@@ -24,6 +24,6 @@ export const Header = () => {
           </Nav>
         </Container>
       </Navbar>
-    </>
+    </header>
   )
 }
