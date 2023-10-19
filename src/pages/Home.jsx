@@ -6,11 +6,10 @@ export const Home = () => {
   return (
     <>
         <article className="container mb-5">
-            <div className="fixed-button">
-                <Link to="/register" className="btn btn-warning">Registrarse</Link>
-            </div>
+            <Link to="/register" className="btn btn-warning fixed-button">Registrarse</Link>
             <h2 className='container mt-3 mb-3'>Nuestros servicios</h2>
             <Carrusel />
+            <h2  className='container mt-3 mb-3'>Productos</h2>
             <Cards />
         </article>
     </>

@@ -13,7 +13,6 @@ export const Cards = () => {
   return (
     <section>
     <Container>
-        <h2>Productos</h2>
         <Row>
           {products.map((product) => (
             <Col key={product.id} sm={12} md={6} lg={4}>
