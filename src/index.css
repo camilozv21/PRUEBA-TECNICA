@@ -28,8 +28,9 @@ max-height: 600px;
 
 .fixed-button {
   position: fixed;
-  bottom: 50px;
-  right: 50px;
+  bottom: 15px;
+  right: 15px;
+  z-index: 10;
 }
 
 .link-nav {
