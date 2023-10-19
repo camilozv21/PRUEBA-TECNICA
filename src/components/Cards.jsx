@@ -11,7 +11,7 @@ export const Cards = () => {
       const [show, setShow] = useState(false)
 
   return (
-    <>
+    <section>
     <Container>
         <h2>Productos</h2>
         <Row>
@@ -39,6 +39,6 @@ export const Cards = () => {
             <Toast.Body className='text-white'>Woohoo, acabas de comprar algo delicioso!</Toast.Body>
           </Toast>
       </ToastContainer>
-    </>
+    </section>
   )
 }
