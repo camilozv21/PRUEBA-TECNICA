@@ -1,7 +1,5 @@
 # Prueba Técnica de Maquetación y Frontend
 
-![TSGroup SAS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fconnectamericas.com%2Fcompany%2Ftsgroup-sas&psig=AOvVaw1x4oA5fJ4VLgZC0sl6k69L&ust=1697830123292000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjwvJ3sgoIDFQAAAAAdAAAAABAJ)
-
 **TSGroup SAS**  
 Cra 43A Nro. 14-109 Oficina 313  
 Edificio Novatempo  
