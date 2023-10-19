@@ -2,6 +2,7 @@ import logo from "./assets/logo.jpg"
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
+import { Link } from "react-router-dom";
 
 export const Header = () => {
   return (
@@ -18,8 +19,8 @@ export const Header = () => {
             />
             </Navbar.Brand>
             <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/register">Register</Nav.Link>
+            <Link to="/" className="d-flex align-items-center justify-content-center link-nav">Home</Link>
+            <Link to="/register" className="d-flex align-items-center justify-content-center link-nav">Registro</Link>
           </Nav>
         </Container>
       </Navbar>
