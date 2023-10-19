@@ -7,12 +7,10 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
-      <div className="App">
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/register' element={<Register />} />
-        </Routes>
-      </div>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/register' element={<Register />} />
+      </Routes>
     </BrowserRouter>
   );
 }
