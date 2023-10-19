@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Prueba Técnica de Maquetación y Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![TSGroup SAS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fconnectamericas.com%2Fcompany%2Ftsgroup-sas&psig=AOvVaw1x4oA5fJ4VLgZC0sl6k69L&ust=1697830123292000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjwvJ3sgoIDFQAAAAAdAAAAABAJ)
 
-## Available Scripts
+**TSGroup SAS**  
+Cra 43A Nro. 14-109 Oficina 313  
+Edificio Novatempo  
+PBX: 352 3787  
+Medellín - Colombia
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Detalle de la Prueba
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Parte 1: Maquetación (HTML5, CSS3, Bootstrap)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Objetivo**: Evaluar tus conocimientos en HTML5, CSS3 y Bootstrap a través de la creación de un diseño.
 
-### `npm test`
+#### Requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Crear una página con 2 secciones.
+2. Asegurarse de que el diseño sea completamente responsive.
+3. Cada sección debe contener un título.
+4. Implementar una animación utilizando CSS3.
 
-### `npm run build`
+**Tiempo asignado**: 4 horas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Parte 2: Frontend (Vue, React, Angular)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Objetivo**: Evaluar tu nivel de JavaScript mediante la creación de un formulario de registro.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Requisitos
 
-### `npm run eject`
+1. Crear un formulario de registro que solicite Nombre, Correo, País y Ciudad.
+2. Simular el consumo de un servicio que devuelva datos de países y ciudades.
+3. Filtrar las ciudades en función del país seleccionado.
+4. Implementar validaciones de campos: el nombre debe ser alfabético y el formato del correo debe ser correcto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Tiempo asignado**: 4 horas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Parte 1: Maquetación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+El proyecto de maquetación se ha implementado utilizando HTML5, CSS3 y Bootstrap. Para ejecutarlo, sigue estos pasos:
 
-## Learn More
+1. Clona el repositorio desde [enlace al repositorio](https://github.com/camilozv21/PRUEBA-TECNICA).
+2. Abre la carpeta del proyecto en tu editor de código favorito.
+3. Ejecuta `npm install` para instalar las dependencias necesarias.
+4. Luego, ejecuta `npm start` para iniciar la aplicación de maquetación.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Parte 2: Frontend
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+El proyecto de frontend se ha construido en React. Para ejecutarlo, sigue estos pasos:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clona el repositorio desde [enlace al repositorio](https://github.com/camilozv21/PRUEBA-TECNICA).
+2. Abre la carpeta del proyecto en tu editor de código favorito.
+3. Ejecuta `npm install` para instalar las dependencias necesarias.
+4. Luego, ejecuta `npm start` para iniciar la aplicación de frontend.
