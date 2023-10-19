@@ -55,3 +55,8 @@ El proyecto de frontend se ha construido en React. Para ejecutarlo, sigue estos 
 2. Abre la carpeta del proyecto en tu editor de código favorito.
 3. Ejecuta `npm install` para instalar las dependencias necesarias.
 4. Luego, ejecuta `npm start` para iniciar la aplicación de frontend.
+
+![image](https://github.com/camilozv21/PRUEBA-TECNICA/assets/126104786/5f1b4cf5-713b-4dd9-aea0-d4163f8be64c)
+![image](https://github.com/camilozv21/PRUEBA-TECNICA/assets/126104786/d5e78327-ebbd-467a-855c-32dba11046c9)
+![image](https://github.com/camilozv21/PRUEBA-TECNICA/assets/126104786/043d534a-f414-40d2-9d3b-2cf54550e0c5)
+
