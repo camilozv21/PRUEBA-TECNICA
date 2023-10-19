@@ -6,9 +6,6 @@ import img3 from './assets/comida_carrusel.jpg'
 export const Carrusel = () => {
   return (
     <section>
-        <div className='container mt-3 mb-3'>
-            <h2>Nuestros servicios</h2>
-        </div>
         <Carousel className="custom-carousel" fade interval={1500}>
         <Carousel.Item>
             <img
